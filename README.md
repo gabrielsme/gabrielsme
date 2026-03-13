@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Medeiros</h1>
 <h3 align="center">A passionate mobile developer from Brazil</h3>
 
-<p>I've been working as a developer since 2007. I have extensive experience in various technologies, such as C#, PHP, Delphi, Android, iOS, and Windows Phone, with a focus on mobile development since 2014. </p>
-<p>I have worked in companies from different sectors, such as tourism, finance, health tech, and startups, always seeking to use the best practices and technologies available to create efficient and innovative solutions. </p>
+<p>Senior Android Engineer with 7+ years of hands-on experience building and scaling high-performance mobile applications across healthcare, fintech, telecom, retail, and large B2C platforms. Specialized in Kotlin, Jetpack Compose, MVVM, Coroutines, Dependency Injection (Koin/Dagger/Hilt), testing automation, and modern Android architecture. Proven track record modernizing legacy codebases, improving UI performance, reducing crash rates, and collaborating closely with product, design, and backend teams to deliver reliable, user-centered mobile solutions.</p>
 
 <br/>
 <br/>
